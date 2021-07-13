@@ -1,6 +1,7 @@
 # SpaceTravel
 
-**TODO: Add description**
+mix compile
+mix test
 
 ## Installation
 
